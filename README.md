@@ -134,11 +134,20 @@ Key takeaways include:
 
 ## 🖼 Screenshots
 
-> 📸 *Add screenshots of your application here to showcase the UI and features*
+### Home Screen
+![Home Screen](assets/default.png)
 
-Example:
-- Main Game List
-- Add Game Form
-- Achievements Checklist View
+### Add Game
+![Add Game](assets/AddGame.png)
+
+### Add Achievement
+![Add Trophy](assets/AddTrophy.png)
+
+### Achievements List
+![Achievements List](assets/achievements.png)
+
+### Delete Game/Achievement
+![Delete Game](assets/delete_game.png)
+![Delete Achievement](assets/delete_achievement.png)
 
 ---
